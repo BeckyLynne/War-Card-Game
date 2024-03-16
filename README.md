@@ -1,1 +1,1 @@
-"# Week6Project" 
+"This is a Java project I created. It runs through full round of the card game War. It creates a new deck, deals the cards, compares the cards drawn and declares a winner of each hand. At the end it declares a winner of the game."
